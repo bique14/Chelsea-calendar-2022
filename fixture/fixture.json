@@ -1,0 +1,470 @@
+[
+  {
+    "date": {
+      "datetime": "21-08-2022",
+      "month": "August"
+    },
+    "fixtures": [
+      {
+        "home": "Leeds United",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "27-08-2022",
+      "month": "August"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Leicester City",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "30-08-2022",
+      "month": "August"
+    },
+    "fixtures": [
+      {
+        "home": "Southampton",
+        "away": "Chelsea",
+        "time": "01:45"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "04-09-2022",
+      "month": "September"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Westham United",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "10-09-2022",
+      "month": "September"
+    },
+    "fixtures": [
+      {
+        "home": "Fulham",
+        "away": "Chelsea",
+        "time": "19:30"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "18-09-2022",
+      "month": "September"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Liverpool",
+        "time": "20:30"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "01-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Crystal Palace",
+        "away": "Chelsea",
+        "time": "22:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "08-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Wolverhampton Wanderers",
+        "time": "22:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "16-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Aston Villa",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "20-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Brentford",
+        "away": "Chelsea",
+        "time": "01:30"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "23-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Manchester United",
+        "time": "00:30"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "29-10-2022",
+      "month": "October"
+    },
+    "fixtures": [
+      {
+        "home": "Brighton and Hove Albion",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "05-11-2022",
+      "month": "November"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Arsenal",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "12-11-2022",
+      "month": "November"
+    },
+    "fixtures": [
+      {
+        "home": "Newcastle United",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "26-12-2022",
+      "month": "December"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Bournemouth",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "31-12-2022",
+      "month": "December"
+    },
+    "fixtures": [
+      {
+        "home": "Nottingham Forest",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "02-01-2023",
+      "month": "January"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Manchester City",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "14-01-2023",
+      "month": "January"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Crystal Palace",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "21-01-2023",
+      "month": "January"
+    },
+    "fixtures": [
+      {
+        "home": "Liverpool",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "04-02-2022",
+      "month": "February"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Fulham",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "11-02-2023",
+      "month": "February"
+    },
+    "fixtures": [
+      {
+        "home": "Westham United",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "18-02-2023",
+      "month": "February"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Southampton",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "25-02-2023",
+      "month": "February"
+    },
+    "fixtures": [
+      {
+        "home": "Tottenham Hotspur",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "04-03-2023",
+      "month": "March"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Leeds United",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "11-03-2023",
+      "month": "March"
+    },
+    "fixtures": [
+      {
+        "home": "Leicester City",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "18-03-2023",
+      "month": "March"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Everton",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "01-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Aston Villa",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "08-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Wolverhampton Wanderers",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "15-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Brighton and Hove Albion",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "22-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Manchester United",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "26-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Brentford",
+        "time": "01:45"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "29-04-2023",
+      "month": "April"
+    },
+    "fixtures": [
+      {
+        "home": "Arsenal",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "06-05-2023",
+      "month": "May"
+    },
+    "fixtures": [
+      {
+        "home": "Bournemouth",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "13-05-2023",
+      "month": "May"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Nottingham Forest",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "20-05-2023",
+      "month": "May"
+    },
+    "fixtures": [
+      {
+        "home": "Manchester City",
+        "away": "Chelsea",
+        "time": "21:00"
+      }
+    ]
+  },
+  {
+    "date": {
+      "datetime": "28-05-2023",
+      "month": "May"
+    },
+    "fixtures": [
+      {
+        "home": "Chelsea",
+        "away": "Newcastle United",
+        "time": "23:00"
+      }
+    ]
+  }
+]
