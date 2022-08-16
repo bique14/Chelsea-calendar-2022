@@ -76,6 +76,10 @@ npm install
 
 ## Run
 
+Put your google email in `.env` file (like a `.env.example`)
+
+and `keys.json` is a credential keys for Google Calendar API
+
 ```bash
 node app.js
 ```
